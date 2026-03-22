@@ -169,3 +169,13 @@ UIT, RGPV · 2019 – 2023 · GPA: 7.91 / 10
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&animation=fadeIn&color=gradient&customColorList=6,11,12,20,24" />
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPatidar-dev&theme=tokyo-night"/>
+</p>
+
+---
