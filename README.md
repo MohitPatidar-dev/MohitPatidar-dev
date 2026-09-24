@@ -153,22 +153,9 @@ UIT, RGPV · 2019 – 2023 · GPA: 7.91 / 10
 - Adaptability
 - Clean Code & Reusable Architecture
 
----
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitPatidar-dev&theme=tokyo-night"/>
-</p>
-
----
 
 ### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohitPatidar-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitPatidar-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MohitPatidar-dev&theme=tokyonight&hide_border=true" />
