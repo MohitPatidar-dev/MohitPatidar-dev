@@ -25,10 +25,6 @@ Full Stack Developer with 3+ years of experience building scalable web and mobil
 
 I enjoy turning complex product ideas into clean, fast, and user-centric experiences.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohitPatidar-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
-</p>
-
 ---
 
 ### Tech Stack
